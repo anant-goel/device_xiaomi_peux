@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/evolution_veux.mk
 
 COMMON_LUNCH_CHOICES := \
-    evolution_veux-user \
-    evolution_veux-userdebug \
-    evolution_veux-eng
+superior_veux-user \
+superior_veux-userdebug \
+superior_veux-eng
